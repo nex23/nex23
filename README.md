@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @nex23
 - 👀 I’m interested in Rust lang
-- 🌱 I’m Web Developer in training (HTML, CSS, JavaScript, React)
+- 🌱 I’m Web Developer (Ruby on Rails, HTML, CSS, JavaScript, Rust)
 - 💞️ I’m looking to collaborate on Develop App with Rust
 - 📫 How to reach me yo@hugonex.com
 
