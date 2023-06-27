@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m @nex23
-- 👀 I’m interested in Rust lang
+- 👋 Hi, I’m Hugo Acosta
 - 🌱 I’m Web Developer (Ruby on Rails, HTML, CSS, JavaScript, Rust)
+- 👀 I’m learning Rust lang
 - 💞️ I’m looking to collaborate on Develop App with Rust
 - 📫 How to reach me yo@hugonex.com
 
