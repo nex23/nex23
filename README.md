@@ -1,7 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m Hugo Acosta
-- 🌱 I’m Web Developer (Ruby on Rails, HTML, CSS, JavaScript, Rust)
+- 🌱 I’m Web Developer (Ruby on Rails, HTML, CSS, JavaScript, MySQL, PostgreSQL)
 - 👀 I’m learning Rust lang
+- WordPress | Elementor (PHP, MySQL)
 - 💞️ I’m looking to collaborate on Develop App with Rust
 - 📫 How to reach me yo@hugonex.com
 
